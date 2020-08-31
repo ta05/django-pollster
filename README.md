@@ -65,6 +65,6 @@ SOFTWARE.
 
 ## Credits
 
-Credits to Traversy Media for their Django Tutorial and to https://blog.heroku.comfrom-project-to-productionized-python
+Credits to Traversy Media for their Django Tutorial and to https://blog.heroku.com/from-project-to-productionized-python
 for their instructions on how to get an app into production onto Heroku as a 12-factor application
 
